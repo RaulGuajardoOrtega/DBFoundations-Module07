@@ -3,9 +3,10 @@ Raul Guajardo
 Foundations of Databases and SQL Programming
 Assignment07
 Raul’sGitHub
-Functions
 
-Introduction
+#Functions
+
+##Introduction
 
 In this paper, I will be discussing what SQL User Defined Functions (UDFs) are, what the advantages of using them are and what differences exist between Scalar, Inline, and Multi-Statement Functions.
 
